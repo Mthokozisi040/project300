@@ -39,7 +39,7 @@ import Activitieshome from '@/components/Activitieshome';
 
 
 // Backend API base URL
-const API_BASE_URL = 'http://localhost:3001'; // Update with your backend URL
+const API_BASE_URL = 'https://project300-backend-qdzu.onrender.com'; // Update with your backend URL
 
 export default function Home() {
   const router = useRouter();
